@@ -43,6 +43,9 @@ The API can be tested directly using FastAPI’s built-in Swagger interface.
 ## Tech Stack Used
 - Python
 - FastAPI
+- Uvicorn
+- Pydantic
+-SwaggerUI (auto-generated)
 
 ---
 
